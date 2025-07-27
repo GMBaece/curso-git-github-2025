@@ -2,3 +2,9 @@ ls -> lista arquivos
 cd -> move entre diretórios 
 pwd -> mostra diretório de trabalho
 cat -> abre arquivo no cmd
+rm - rf -> exclui pastas e subspastas
+
+git init . -> inicia o Git na pasta para repositório
+git status -> status do git
+git add -> adiciona o que eu quero para o comitt 
+git commit -m -> comita os arquivos no git
