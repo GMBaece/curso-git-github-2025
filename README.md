@@ -7,6 +7,7 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 Aprendendo ainda sobre GitFlow e Visual Studio Code com o Mago dos Dados
 
 
+Aprendendo de forma bem didática como padronizar o trabalho no Git
 
 ## Fluxo de trabalho Git local
 
