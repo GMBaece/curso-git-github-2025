@@ -4,6 +4,10 @@ git add nome_arquivo -> adiciono arquivo para ser commitado
 git commit -m -> faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commit
 git diff -> mostra o que há de diferença entre o status atual e o ultimo salvo no documento
+git reset <nome arquivo> -> retira um arquivo da lista de commit
+git checkokut -b <nome barnch> -> cria uma branch separada do main
+git branch -> lista as branchs existentes e indica qual está sendo utilizada no momento
+git merge <nome da branch> -> une as informações entre duas branchs
 
 ## FLUXO DE TRABALHO
 1. Criar o diretório do projeto
