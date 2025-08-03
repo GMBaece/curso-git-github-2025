@@ -4,7 +4,7 @@ pwd -> mostra diretório de trabalho
 cat -> abre arquivo no cmd
 rm -> remove arquivo ou diretório
 rm - rf -> remove de forma recursiva e forçada todos diretórios
-
+touch <nome_arquivo>.<extensão> - cria arquivo
 
 git init . -> inicia o Git na pasta para repositório
 git status -> status do git
